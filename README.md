@@ -1,56 +1,56 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 안녕하세요, 원종민입니다!
 
 <div align="center">
 
-### Full Stack Developer 💻
+### 풀스택 개발자 💻
 
-**I build scalable web applications with modern technologies**
+**최신 기술로 확장 가능한 웹 애플리케이션을 구축합니다**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JongMin999)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djajdjaj362960@gmail.com)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Site-blue)](https://inflearn-clone.malrang.space)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-배포%20사이트-blue)](https://inflearn-clone.malrang.space)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 소개
 
 ```typescript
 const developer = {
-  name: "Your Name",
-  role: "Full Stack Developer",
-  location: "Seoul, South Korea",
+  name: "원종민",
+  role: "풀스택 개발자",
+  location: "서울, 대한민국",
   skills: ["TypeScript", "React", "Next.js", "NestJS", "PostgreSQL"],
-  currentlyLearning: ["Microservices", "System Design"],
-  hobbies: ["Coding", "Reading", "Gaming"]
+  currentlyLearning: ["마이크로서비스", "시스템 설계"],
+  hobbies: ["코딩", "독서", "게임"]
 };
 ```
 
 ---
 
-## 💼 Featured Projects
+## 💼 주요 프로젝트
 
-### 🎓 Inflearn Clone - Online Learning Platform
-**Full Stack Web Application**
+### 🎓 Inflearn Clone - 온라인 강의 플랫폼
+**풀스택 웹 애플리케이션**
 
-A production-ready online learning platform built with Next.js 15, NestJS 10, and TypeScript.
+Next.js 15, NestJS 10, TypeScript로 구축한 프로덕션 레벨의 온라인 강의 플랫폼입니다.
 
-**Key Features:**
-- 🔐 OAuth Social Login (Google, Kakao, Naver)
-- 📚 Course Management & Search
-- 📝 Review System
-- 📊 Learning Progress Tracking
-- 🎬 Video Streaming
+**주요 기능:**
+- 🔐 OAuth 소셜 로그인 (Google, Kakao, Naver)
+- 📚 강의 관리 및 검색
+- 📝 리뷰 시스템
+- 📊 학습 진행률 추적
+- 🎬 영상 스트리밍
 
-**Tech Stack:** Next.js 15 | NestJS 10 | TypeScript | PostgreSQL | Prisma | AWS | Docker
+**기술 스택:** Next.js 15 | NestJS 10 | TypeScript | PostgreSQL | Prisma | AWS | Docker
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Site-blue)](https://inflearn-clone.malrang.space)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/your-username/inflearn-fullstack-clone)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-배포%20사이트-blue)](https://inflearn-clone.malrang.space)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/JongMin999/inflearn-fullstack-clone)
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -72,7 +72,7 @@ A production-ready online learning platform built with Next.js 15, NestJS 10, an
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 통계
 
 <div align="center">
 
@@ -86,38 +86,35 @@ A production-ready online learning platform built with Next.js 15, NestJS 10, an
 
 ---
 
-## 📈 Contribution Graph
+## 📈 기여 그래프
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JongMin999&theme=tokyo-night&hide_border=true)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub 트로피
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JongMin999&theme=tokyonight&no-frame=true&no-bg=true)
 
 ---
 
-## 💡 Fun Facts
+## 💡 더 알아보기
 
-- 🔭 I'm currently working on improving my **Inflearn Clone** project
-- 🌱 I'm learning **Microservices Architecture** and **System Design**
-- 👯 I'm looking to collaborate on open source projects
-- 🤔 I'm looking for help with **Performance Optimization**
-- 💬 Ask me about **TypeScript**, **React**, **Next.js**, or **NestJS**
-- 📫 How to reach me: [djajdjaj362960@gmai.com](mailto:djajdjaj362960@gmai.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I code in my dreams (literally!)
-
+- 🔭 현재 **Inflearn Clone** 프로젝트를 개선하고 있습니다
+- 🌱 **마이크로서비스 아키텍처**와 **시스템 설계**를 학습 중입니다
+- 🤔 **성능 최적화**에 대한 도움을 구하고 있습니다
+- 💬 **TypeScript**, **React**, **Next.js**, **NestJS**에 대해 질문해주세요
+- 📫 연락처: [djajdjaj362960@gmail.com](mailto:djajdjaj362960@gmail.com)
+- 😄 성별: 남성
 ---
 
 <div align="center">
 
-### ⭐ Star my repositories if you find them useful!
+### ⭐ 유용하다고 생각하시면 레포지토리에 Star를 눌러주세요!
 
-**Made with ❤️ by [JongMin999]**
+**Made with ❤️ by 원종민**
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=JongMin999&color=blueviolet&style=flat-square)
 
 </div>
 
