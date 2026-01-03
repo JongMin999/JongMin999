@@ -76,9 +76,9 @@ Next.js 15, NestJS 10, TypeScript로 구축한 프로덕션 레벨의 온라인 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JongMin999)](https://github.com/JongMin999/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JongMin999&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JongMin999&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JongMin999&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JongMin999&theme=tokyonight&hide_border=true)
 
