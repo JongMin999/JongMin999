@@ -36,6 +36,7 @@ Next.js 15, NestJS 10, TypeScript로 구축한 프로덕션 레벨의 온라인 
 **주요 기능:**
 - 🔐 OAuth 소셜 로그인 (Google, Kakao, Naver)
 - 📚 강의 관리 및 검색
+- 💸 결제 시스템 연동(toss payment)
 - 📝 리뷰 시스템
 - 📊 학습 진행률 추적
 - 🎬 영상 스트리밍
