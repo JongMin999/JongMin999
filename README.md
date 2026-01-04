@@ -1,8 +1,6 @@
-# 👋 안녕하세요, 원종민입니다!
+### 👋 안녕하세요, 원종민입니다!
 
 <div align="center">
-
-### 풀스택 개발자 💻
 
 **최신 기술로 확장 가능한 웹 애플리케이션을 구축합니다**
 
@@ -19,7 +17,6 @@
 ```typescript
 const developer = {
   name: "원종민",
-  role: "풀스택 개발자",
   location: "서울, 대한민국",
   skills: ["TypeScript", "React", "Next.js", "NestJS", "PostgreSQL"],
   currentlyLearning: ["마이크로서비스", "시스템 설계"],
@@ -97,7 +94,6 @@ Next.js 15, NestJS 10, TypeScript로 구축한 프로덕션 레벨의 온라인 
 ## 💡 더 알아보기
 
 - 🔭 현재 **Inflearn Clone** 프로젝트를 개선하고 있습니다
-- 🌱 **마이크로서비스 아키텍처**와 **시스템 설계**를 학습 중입니다
 - 🤔 **성능 최적화**에 대한 도움을 구하고 있습니다
 - 💬 **TypeScript**, **React**, **Next.js**, **NestJS**에 대해 질문해주세요
 - 📫 연락처: [djajdjaj362960@gmail.com](mailto:djajdjaj362960@gmail.com)
@@ -106,9 +102,8 @@ Next.js 15, NestJS 10, TypeScript로 구축한 프로덕션 레벨의 온라인 
 
 <div align="center">
 
-### ⭐ 유용하다고 생각하시면 레포지토리에 Star를 눌러주세요!
 
-**Made with ❤️ by 원종민**
+**Made by 원종민**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JongMin999&color=blueviolet&style=flat-square)
 
